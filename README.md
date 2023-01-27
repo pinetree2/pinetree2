@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=pinetree2&show_icons=true&theme=tokyonight">
----
+
+ ---
+ 
 
 ### 💬 Contact
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pinetree3966@gmail.com)](mailto:pinetree3966@gmail.com)
