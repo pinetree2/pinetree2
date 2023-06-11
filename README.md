@@ -23,9 +23,24 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=pinetree2&show_icons=true&theme=tokyonight">
+</div>
 
  ---
+
+
+
+ ### ✍️ Blog
+ [벨로그](https://velog.io/@pinetree2) <br>
+ [티스토리](https://pinetree0308.tistory.com/)
+
  
+ ---
+ ### Project & Study
+ 
+ [프로젝트&스터디 목록](https://song-01.notion.site/Project-Study-b8b90b98408a4da594de5e1557003fcb?pvs=4)
+ 
+ 
+ ---
 
 ### 💬 Contact
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pinetree3966@gmail.com)](mailto:pinetree3966@gmail.com)
@@ -34,6 +49,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 pinetree](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlgothd3966)](https://solved.ac/dlgothd3966)
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
