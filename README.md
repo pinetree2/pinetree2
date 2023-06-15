@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 
 ### ✍️ Studying
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinetree2&layout=compact"><br>
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Aws-FFB71B?style=flat-square&logo=Amazon Aws&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+ 
  
 ![](./profile-3d-contrib/profile-green-animate.svg)
  ---
@@ -50,3 +57,4 @@ pinetree](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlgothd3966)](http
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
+ 
