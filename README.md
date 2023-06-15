@@ -13,18 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinetree2)](https://github.com/pinetree2/github-readme-stats)
+
 -->
 
 <div align="center">
 
 
 ### ✍️ Studying
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=pinetree2&show_icons=true&theme=tokyonight">
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinetree2&layout=compact"><br>
+ 
+![](./profile-3d-contrib/profile-green-animate.svg)
  ---
 
 
@@ -51,3 +49,4 @@ Here are some ideas to get you started:
 pinetree](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlgothd3966)](https://solved.ac/dlgothd3966)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
