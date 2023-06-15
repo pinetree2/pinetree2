@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
  ### ✍️ Blog
  [벨로그](https://velog.io/@pinetree2) <br>
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pinetree2)](https://velog.io/@pinetree2)<br>
  [티스토리](https://pinetree0308.tistory.com/)
 
  
