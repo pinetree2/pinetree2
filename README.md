@@ -1,27 +1,13 @@
 
 
-<!--
-**pinetree2/pinetree2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-<div align="center">
-
-
 ### ✍️ Studying
+Hi! hello. My name is Lee Hae-song.<br>
+I am very interested in cloud and infrastructure and am engaged in various activities and studies.<br>
+My goal is to become a DevOps, cloud engineer, and Infra engineer.
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinetree2&layout=compact"><br>
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Aws-FFB71B?style=flat-square&logo=Amazon Aws&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
@@ -30,24 +16,28 @@ Here are some ideas to get you started:
  
  
 ![](./profile-3d-contrib/profile-green-animate.svg)
- ---
 
 
 
- ### ✍️ Blog
- [벨로그](https://velog.io/@pinetree2) <br>
+
+ ## ✍️ Blog
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pinetree2)](https://velog.io/@pinetree2)<br>
- [티스토리](https://pinetree0308.tistory.com/)
+ [Tistory](https://pinetree0308.tistory.com/)
 
  
- ---
+## Activity
+- UMC CUK 3rd
+- Like Lion CUK 11th
+- GDSC CUK 23-24 Lead
+- CloudClub 2nd
+- Ausg 7th
 
 
 
- ### Project & Study
+ ## Project & Study
 
  <details>
-  <summary>클릭하여 프로젝트&스터디 목록 보기</summary>
+  <summary>Click to view project & study list</summary>
 
 |프로젝트&스터디 제목 및 개요|개발 기간|참여인원 & 자신의 역할|기술스택|주요 개발 내용|비고|
 |------|-----|-------|-----|------|---|
