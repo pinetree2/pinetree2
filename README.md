@@ -26,11 +26,12 @@ My goal is to become a DevOps, cloud engineer, and Infra engineer.
 
  
 ## Activity
-- UMC CUK 3rd
-- Like Lion CUK 11th
+- UMC CUK 3rd - Server part 
+- Like Lion CUK 11th 
 - GDSC CUK 23-24 Lead
-- CloudClub 2nd
+- CloudClub 2nd,3rd,4th
 - Ausg 7th
+- Aws Cloud Clubs Captain
 
 
 
