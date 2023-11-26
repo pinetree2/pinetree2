@@ -14,6 +14,7 @@
 ⭐️ 2023.09 ~ 현재 : GDSC CUK 23-24 Lead<br>
 ⭐️ 2023.07 ~ 현재 : Ausg 7th<br>
 ⭐️ 2023.11 ~ 현재 : Aws Cloud Clubs Captain<br>
+⭐️ 2023.11 ~ 현재 : AWSKRUG platform engineering core member <br>
 
 ### 🛠️ Stacks of Interest
 
