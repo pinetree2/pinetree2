@@ -27,7 +27,7 @@
  - velog : https://velog.io/@pinetree2 <br>
  - tistory : https://pinetree0308.tistory.com/
  - mail : pinetree3966@naver.com <br>
- - LinkdIn : https://www.linkedin.com/in/haesong-lee-a8a86b249/
+ - LinkdIn : https://www.linkedin.com/in/haesong-lee
 ---
 
 ### 💬 Etc
