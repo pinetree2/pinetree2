@@ -15,6 +15,10 @@
 ⭐️ 2023.07 ~ 현재 : Ausg 7th<br>
 ⭐️ 2023.11 ~ 현재 : Aws Cloud Clubs Captain<br>
 ⭐️ 2023.11 ~ 현재 : AWSKRUG Platform Engineering core member<br>
+
+###  Education
+☁️ 2023.12.18 ~ 2024.02.29 : CJ CloudWave 교육 수료 
+
 ### 🛠️ Stacks of Interest
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinetree2&layout=compact"><br>
