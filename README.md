@@ -7,11 +7,11 @@
 
 
 ###  Activity
-⭐️ 2020.03 : 가톨릭대학교 정보통신전자공학부 입학<br> 
+⭐️ 2020.03 ~ 2024.08 : 가톨릭대학교 정보통신전자공학부/컴퓨터정보공학부 <br> 
 ⭐️ 2022.09 ~ 2023.01 : UMC CUK 3rd - Server part <br>
 ⭐️ 2022.08 ~ 현재 : CloudClub 2nd,3rd,4th<br>
 ⭐️ 2023.03 ~ 2023.12 : Like Lion CUK 11th 운영진 <br>
-⭐️ 2023.09 ~ 현재 : GDSC CUK 23-24 Lead<br>
+⭐️ 2023.09 ~ 2024.07 : GDSC CUK 23-24 Lead<br>
 ⭐️ 2023.07 ~ 현재 : Ausg 7th<br>
 ⭐️ 2023.11 ~ 현재 : Aws Cloud Clubs Captain<br>
 ⭐️ 2023.11 ~ 현재 : AWSKRUG Platform Engineering core member<br>
