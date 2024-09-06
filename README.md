@@ -12,9 +12,10 @@
 ⭐️ 2022.08 ~ 현재 : CloudClub 2nd,3rd,4th<br>
 ⭐️ 2023.03 ~ 2023.12 : Like Lion CUK 11th 운영진 <br>
 ⭐️ 2023.09 ~ 2024.07 : GDSC CUK 23-24 Lead<br>
-⭐️ 2023.07 ~ 현재 : Ausg 7th<br>
-⭐️ 2023.11 ~ 현재 : Aws Cloud Clubs Captain<br>
+⭐️ 2023.07 ~ 2024.06 : Ausg 7th<br>
+⭐️ 2023.11 ~ 2024.11 : Aws Cloud Clubs Captain<br>
 ⭐️ 2023.11 ~ 현재 : AWSKRUG Platform Engineering core member<br>
+⭐️ 2024.07 ~ 현재 : 2024 오픈소스 컨트리뷰션 Openstack 리드멘티
 
 ###  Education
 ☁️ 2023.12.18 ~ 2024.02.29 : CJ CloudWave 교육 수료 
