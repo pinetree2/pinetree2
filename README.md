@@ -4,7 +4,8 @@
 🏫 The Catholic University Of Korea <br>
 😄 Interested in Cloud,Infra and DevOps
 
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ###  Activity
 ⭐️ 2020.03 ~ 2024.08 : 가톨릭대학교 정보통신전자공학부/컴퓨터정보공학부 <br> 
