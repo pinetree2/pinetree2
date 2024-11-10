@@ -10,14 +10,14 @@
 ###  Activity
 ⭐️ 2020.03 ~ 2024.08 : 가톨릭대학교 정보통신전자공학부/컴퓨터정보공학부 <br> 
 ⭐️ 2022.09 ~ 2023.01 : UMC CUK 3rd - Server part <br>
-⭐️ 2022.08 ~ 현재 : CloudClub 2nd,3rd,4th<br>
 ⭐️ 2023.03 ~ 2023.12 : Like Lion CUK 11th 운영진 <br>
 ⭐️ 2023.09 ~ 2024.07 : GDSC CUK 23-24 Lead<br>
 ⭐️ 2023.07 ~ 2024.06 : Ausg 7th<br>
 ⭐️ 2023.11 ~ 2024.11 : Aws Cloud Clubs Captain<br>
 ⭐️ 2023.11 ~ 2024.11 : AWSKRUG Platform Engineering core member<br>
 ⭐️ 2024.07 ~ 2024.11 : 2024 오픈소스 컨트리뷰션 Openstack 리드멘티 <br>
-⭐️ 2024.11 ~ 2024.12 : canon korea Infra Engineer Intern <br>
+⭐️ 2024.11 ~ 현재 : canon korea Infra Engineer Intern <br>
+⭐️ 2022.08 ~ 현재 : CloudClub 2nd~6th 멤버,운영진 <br>
 
 ###  Education
 ☁️ 2023.12.18 ~ 2024.02.29 : CJ CloudWave 교육 수료 
