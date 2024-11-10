@@ -15,8 +15,9 @@
 ⭐️ 2023.09 ~ 2024.07 : GDSC CUK 23-24 Lead<br>
 ⭐️ 2023.07 ~ 2024.06 : Ausg 7th<br>
 ⭐️ 2023.11 ~ 2024.11 : Aws Cloud Clubs Captain<br>
-⭐️ 2023.11 ~ 현재 : AWSKRUG Platform Engineering core member<br>
-⭐️ 2024.07 ~ 현재 : 2024 오픈소스 컨트리뷰션 Openstack 리드멘티
+⭐️ 2023.11 ~ 2024.11 : AWSKRUG Platform Engineering core member<br>
+⭐️ 2024.07 ~ 2024.11 : 2024 오픈소스 컨트리뷰션 Openstack 리드멘티 <br>
+⭐️ 2024.11 ~ 2024.12 : canon korea Infra Engineer Intern <br>
 
 ###  Education
 ☁️ 2023.12.18 ~ 2024.02.29 : CJ CloudWave 교육 수료 
