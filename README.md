@@ -37,6 +37,16 @@
  - LinkdIn : https://www.linkedin.com/in/haesong-lee
 ---
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/pinetree2"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ### 💬 Etc
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinetree2&count_bg=%230040F2&title_bg=%233D5C69&icon=awesomelists.svg&icon_color=%2308E7FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
