@@ -16,7 +16,7 @@
 ⭐️ 2023.11 ~ 2024.11 : Aws Cloud Clubs Captain<br>
 ⭐️ 2023.11 ~ 2024.11 : AWSKRUG Platform Engineering core member<br>
 ⭐️ 2024.07 ~ 2024.11 : 2024 오픈소스 컨트리뷰션 Openstack 리드멘티 <br>
-⭐️ 2024.11 ~ 현재 : canon korea Infra Engineer Intern <br>
+⭐️ 2024.11 ~ 2024.12 : canon korea Infra Engineer Intern <br>
 ⭐️ 2022.08 ~ 현재 : CloudClub 2nd~6th 멤버,운영진 <br>
 
 ###  Education
