@@ -18,7 +18,8 @@
 ⭐️ 2023.11 ~ 2024.11 : AWSKRUG Platform Engineering core member<br>
 ⭐️ 2024.07 ~ 2024.11 : 2024 오픈소스 컨트리뷰션 Openstack 리드멘티 <br>
 ⭐️ 2024.11 ~ 2024.12 : canon korea Infra Engineer Intern <br>
-⭐️ 2022.08 ~ 현재 : CloudClub 2nd~6th 멤버,운영진,회장 <br>
+⭐️ 2022.08 ~ 현재 : CloudClub 2nd~7th 멤버,운영진,회장 <br>
+⭐️ 2025.04 ~ : Ericsson Korea I&V Engineer <br>
 
 ###  Education
 ☁️ 2023.12.18 ~ 2024.02.29 : CJ CloudWave 교육 수료 
